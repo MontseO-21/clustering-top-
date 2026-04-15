@@ -39,3 +39,5 @@ Recomendaría a Salomé los mismos productos que compró Emilia y Gabriel, porqu
 Recomendaría a Stephania los mismos productos que compraron Pedro e Ines, ya que están en el mismo grupo y tienen un perfil similar en su consumo al fijarse más en la calidad y durabilidad.
 3. **¿Qué productos recomendaría a Lydia?**
 Recomendaría a Lydia los mismos productos que compraron Ana y Jose, porque comparten el mismo grupo y muestran preferencias por productos de buena calidad y consistencia.
+
+Las imagenes son tomadas del código
